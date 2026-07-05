@@ -1,268 +1,317 @@
 <div align="center">
 
-<!-- Animated typing intro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=250&section=header&text=MONESH%20M&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=20"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There+%F0%9F%91%8B%2C+I'm+Monesh+M;Software+Engineer+%7C+AI+Developer;Full-Stack+%2B+ML+%7C+Building+for+Impact;Currently%3A+Level+Up+In+Progress...+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AE+Welcome+to+Player+One's+Base;%E2%9A%94%EF%B8%8F+Full-Stack+%2B+AI+%2B+Security+Build;%F0%9F%8F%86+Hackathon+Champion+%7C+ImpactNexus'26;%F0%9F%9A%80+Currently+Grinding+New+XP..." alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PLAYER%20ONE%20-%20MONESH%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/monesh-m-044547305/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Mmonesh24)
+[![Gmail](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:monesh2310658@ssn.edu.in)
+[![Phone](https://img.shields.io/badge/CALL-9360675152-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+919360675152)
+
+<img src="https://komarev.com/ghpvc/?username=Mmonesh24&color=00f7ff&style=for-the-badge&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/Mmonesh24?color=blueviolet&style=for-the-badge&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=statuspage"/>
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monesh-m-044547305/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mmonesh24)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monesh2310658@ssn.edu.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mmonesh24&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Mmonesh24?style=for-the-badge&color=blueviolet&label=FOLLOWERS)
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🎮 PLAYER STATS
+## 🎮 PLAYER CARD
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
+```yaml
+Player:      Monesh M
+Class:       Software Engineer / AI Developer
+Guild:       Sri Sivasubramania Nadar College of Engineering
+Server:      Chennai, India
+Main Build:  Full-Stack Development + Machine Learning
+HP:          ████████████████████ 100%
+MP (Coffee): ████████████████░░░░  85%
+Status:      🟢 Actively Questing — Open to Opportunities
 ```
-┌──────────────────────────────────────────────────────────┐
-│  CLASS: Software Engineer / AI Developer                 │
-│  GUILD: Sri Sivasubramania Nadar College of Engineering  │
-│  ROLE:  Full-Stack Development + Machine Learning         │
-│  BASE:  Chennai, India                                    │
-│  STATUS: 🟢 Actively Questing (Open to Opportunities)     │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-> Innovative Software Engineer and AI Developer specializing in Full-Stack Development and ML. Proven record of building scalable AI-powered applications to solve real-world challenges — currently grinding XP across web, mobile, and data-driven architectures. ⚔️
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Quest | 🗓️ Season |
-|:---:|:---|:---:|
-| 🥇 **CHAMPION** | Winner — ImpactNexus'26 Hackathon | 2026 |
-| 🥈 **FINALIST** | Citi India Hackathon (Ada Lovelace Day) | 2025 |
-| 🥈 **FINALIST** | Innovate-X Hackathon | 2025 |
-| 🎯 **SHORTLISTED** | Thoothukudi Cybersecurity Hackathon (Phase-2) | 2025 |
-
-</div>
-
----
-
-## ⚔️ ACTIVE QUEST LOG (Experience)
-
-### 🏢 Software Engineering Intern — Chennai Metro Railways Limited (CMRL)
-📅 `June 2025` &nbsp;|&nbsp; 📍 `Chennai, India`
-- Deployed into a real-world operational tech environment, scaling systems for metro rail operations and management.
-- **XP Gained:** Enterprise-scale engineering, operational tech systems, real-world deployment experience.
-
----
-
-## 🕹️ BOSS BATTLES CLEARED (Notable Projects)
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏋️ GrindTogether
-**Community Fitness Tracker**
-
-`React` `Node.js` `MongoDB` `Socket.io`
-
-A production-grade social fitness platform bridging trainees and trainers through real-time sync and gamified motivation.
-
-**Special Abilities:**
-- 🥗 Healthy South Indian Diet Engine — automated meal planning
-- ⚡ Socket-based live activity sync for instant progress tracking
-
-[🔗 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📢 AdMorph
-**AI Advertising Platform**
-
-`React` `FastAPI` `Python` `HuggingFace` `Redis`
-
-Converts single marketing briefs into multiple production-ready ad creatives via automated generative workflows.
-
-**Special Abilities:**
-- 🧠 AI Analytics Engine — NLP emotion detection + color psychology
-- 📈 Predicts CTR and ROAS automatically
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ ShadowScan AI
-**Security Auditor Platform**
-
-`React` `FastAPI` `SSE` `Python`
-
-A recursive discovery and automated vulnerability scanning platform to proactively audit web apps and GitHub repos.
-
-**Special Abilities:**
-- 📡 Real-time scan tracking via SSE
-- 🔍 Detects exposed secrets, SQLi, and XSS using AST parsing
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Competency Certificate System
-**Enterprise Credential Management**
-
-`.NET Core` `Angular` `SQL Server`
-
-Enterprise-grade system engineered to handle master data and streamline issuance of official competency certificates.
-
-**Special Abilities:**
-- 🔌 Architected RESTful APIs
-- 📄 On-the-fly PDF/Base64 generation module
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 EcoEcho
-**Environmental Platform**
-
-`Flutter` `Dart`
-
-A hybrid mobile app merging social networking with a sustainable e-commerce marketplace to promote eco-friendly commerce.
-
-**Special Abilities:**
-- 📰 Community-driven activity feeds & profiles
-- 🎨 Clean, intuitive UI/UX for max engagement
-
-</td>
-<td width="50%" valign="top">
-
-### ➕ Next Quest: ???
-**Your Next Big Idea**
-
-`Coming Soon`
-
-New boss battle loading...
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+> 🧠 *Innovative Software Engineer and AI Developer specializing in Full-Stack Development and ML — proven record of shipping scalable AI-powered applications that solve real-world problems. Currently grinding XP across web, mobile, and data-driven architecture.* ⚔️
+
 </div>
 
 ---
 
-## 🎒 INVENTORY (Tech Arsenal)
+## 🏆 TROPHY ROOM
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mmonesh24&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+</div>
 
 <div align="center">
 
-**Languages**
-<br>
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-**Data & ML**
-<br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+| 🥇 Rank | 🏅 Event | 🗓️ Season |
+|:---:|:---|:---:|
+| 👑 **CHAMPION** | Winner — **ImpactNexus'26 Hackathon** | 2026 |
+| 🥈 **FINALIST** | Citi India Hackathon *(Ada Lovelace Day)* | 2025 |
+| 🥈 **FINALIST** | Innovate-X Hackathon | 2025 |
+| 🎯 **SHORTLISTED** | Thoothukudi Cybersecurity Hackathon — Phase 2 | 2025 |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 SKILL TREE (Proficiency Levels)
+## ⚔️ ACTIVE QUEST LOG — WORK EXPERIENCE
 
-```
-Full-Stack Development   ████████████████████░░  90%
-Machine Learning / AI    █████████████████░░░░░  78%
-System Design            ████████████████░░░░░░  72%
-Cybersecurity            ██████████████░░░░░░░░  62%
-Mobile Development       ███████████████░░░░░░░  68%
-Cloud / DevOps           █████████████░░░░░░░░░  58%
-```
+<table align="center" width="100%">
+<tr>
+<td width="15%" align="center">🏢<br><b>CMRL</b></td>
+<td width="85%">
+
+**Software Engineering Intern** — Chennai Metro Railways Limited
+📅 `June 2025` &nbsp; 📍 `Chennai, India`
+
+Deployed into a real-world operational technology environment, scaling systems that power live metro rail operations and management.
+
+`🎁 XP Gained:` Enterprise-scale engineering • Operational tech systems • Real-world deployment
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🕹️ BOSS BATTLES CLEARED — FEATURED PROJECTS
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h3>🏋️ GrindTogether</h3>
+<i>Community Fitness Tracker</i>
+<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<br><br>
+A production-grade social fitness platform bridging trainees and trainers through real-time sync and gamified motivation.
+<br><br>
+<b>✨ Special Abilities</b>
+<ul>
+<li>🥗 Healthy South Indian Diet Engine — automated meal planning</li>
+<li>⚡ Socket-based live activity sync for instant progress tracking</li>
+</ul>
+<a href="#">🔗 Live Demo</a>
+</td>
+<td width="50%" valign="top">
+<h3>📢 AdMorph</h3>
+<i>AI Advertising Platform</i>
+<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<br><br>
+Converts single marketing briefs into multiple production-ready ad creatives via automated generative workflows.
+<br><br>
+<b>✨ Special Abilities</b>
+<ul>
+<li>🧠 AI Analytics Engine — NLP emotion detection + color psychology</li>
+<li>📈 Predicts CTR and ROAS automatically</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ ShadowScan AI</h3>
+<i>Security Auditor Platform</i>
+<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br><br>
+A recursive discovery and automated vulnerability scanning platform to proactively audit web apps and GitHub repos.
+<br><br>
+<b>✨ Special Abilities</b>
+<ul>
+<li>📡 Real-time scan tracking via SSE</li>
+<li>🔍 Detects exposed secrets, SQLi, and XSS using AST parsing</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>📜 Competency Certificate System</h3>
+<i>Enterprise Credential Management</i>
+<br><br>
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<br><br>
+Enterprise-grade system engineered to handle master data and streamline issuance of official competency certificates.
+<br><br>
+<b>✨ Special Abilities</b>
+<ul>
+<li>🔌 Architected RESTful APIs</li>
+<li>📄 On-the-fly PDF/Base64 generation module</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌱 EcoEcho</h3>
+<i>Environmental Platform</i>
+<br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<br><br>
+A hybrid mobile app merging social networking with a sustainable e-commerce marketplace to promote eco-friendly commerce.
+<br><br>
+<b>✨ Special Abilities</b>
+<ul>
+<li>📰 Community-driven activity feeds & profiles</li>
+<li>🎨 Clean, intuitive UI/UX for maximum engagement</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>➕ Next Quest</h3>
+<i>Your Next Big Idea</i>
+<br><br>
+<img src="https://img.shields.io/badge/Loading...-333333?style=flat-square"/>
+<br><br>
+🎲 New boss battle loading — check back soon.
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🎒 INVENTORY — TECH ARSENAL
+
+<div align="center">
+
+**⚔️ Languages**
+<br><br>
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,js,ts&theme=dark" />
+
+<br><br>
+
+**🛠️ Frameworks & Engines**
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,angular,spring,dotnet,tailwind,unity,blender&theme=dark" />
+
+<br><br>
+
+**🧠 Data & Machine Learning**
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,sklearn,mysql,mongodb,firebase&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<br><br>
+
+**🧰 Tools & Platforms**
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,redis,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 SKILL TREE — PROFICIENCY LEVELS
+
+<div align="center">
+
+| Skill | Level | Progress |
+|:---|:---:|:---|
+| 🖥️ Full-Stack Development | `Lvl 18` | ████████████████████░░ 90% |
+| 🤖 Machine Learning / AI | `Lvl 15` | █████████████████░░░░░ 78% |
+| 🏗️ System Design | `Lvl 14` | ████████████████░░░░░░ 72% |
+| 🛡️ Cybersecurity | `Lvl 12` | ██████████████░░░░░░░░ 62% |
+| 📱 Mobile Development | `Lvl 13` | ███████████████░░░░░░░ 68% |
+| ☁️ Cloud / DevOps | `Lvl 11` | █████████████░░░░░░░░░ 58% |
 
 *(Self-assessed XP bars — always grinding for the next level 📈)*
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📈 LIVE STATS DASHBOARD
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mmonesh24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmonesh24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mmonesh24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmonesh24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmonesh24&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmonesh24&theme=radical&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mmonesh24&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mmonesh24&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
----
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Mmonesh24/Mmonesh24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Snake animation auto-generates once the <code>snake.yml</code> GitHub Action is set up in this repo — instructions below.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🗺️ CURRENT MAIN QUEST
 
+<div align="center">
+
 ```diff
-+ Pursuing B.E. in Computer Science and Engineering
-+ Sri Sivasubramania Nadar College of Engineering, Chennai (2023 - 2027)
-+ Grinding side quests in AI, Full-Stack, and Security while leveling up for placements
++ 🎓 Pursuing B.E. in Computer Science and Engineering
++ 🏛️ Sri Sivasubramania Nadar College of Engineering, Chennai (2023 - 2027)
++ 🔥 Grinding side quests in AI, Full-Stack, and Security while leveling up for placements
 ```
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📬 SEND A MESSAGE TO PLAYER ONE
 
 <div align="center">
 
-📧 **monesh2310658@ssn.edu.in** &nbsp;|&nbsp; 📱 **+91 93606 75152**
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180">
+
+📧 **monesh2310658@ssn.edu.in** &nbsp;
 
 <a href="https://www.linkedin.com/in/monesh-m-044547305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Mmonesh24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:monesh2310658@ssn.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=150&section=footer"/>
 
 <div align="center">
 
-**⭐ "Every commit is XP. Every bug is a boss fight. Every deploy is a level-up." ⭐**
+### ⭐ *"Every commit is XP. Every bug is a boss fight. Every deploy is a level-up."* ⭐
+
+![Visitor Count](https://profile-counter.glitch.me/Mmonesh24/count.svg)
 
 </div>
